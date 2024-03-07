@@ -1,2 +1,1 @@
-# Fatec Zona Leste
-Palíndromo Sem Pilha
+# Palíndromo Sem Pilha
